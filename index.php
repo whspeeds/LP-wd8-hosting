@@ -8,11 +8,11 @@
     <title>Official Website WD808 - Tempat bertaruh sering menang!</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/b1f9ab96-f305-4944-a65f-53e115ac9cb7/favicon.ico?format=100w" />
-    <link rel="canonical" href="https://wd808-x8.buzz/" />
+    <link rel="canonical" href="https://wd808-new.click/" />
     <link rel="amphtml" href="https://wdlogin.pages.dev/amp/" /> 
     <meta property="og:site_name" content="WD808" />
     <meta property="og:title" content="Official Website WD808 - Tempat bertaruh sering menang!" />
-    <meta property="og:url" content="https://wd808-x8.buzz/" />
+    <meta property="og:url" content="https://wd808-new.click/" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
     <meta property="og:image" content="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp?format=1500w" />
@@ -22,20 +22,14 @@
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
     <meta itemprop="name" content="Official Website WD808 - Tempat bertaruh sering menang!" />
-    <meta itemprop="url" content="https://wd808-x8.buzz/" />
+    <meta itemprop="url" content="https://wd808-new.click/" />
     <meta itemprop="description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
-<<<<<<< HEAD
     <meta itemprop="thumbnailUrl" content="https://cdnw808.netlify.work/wd808/wd808-maxwin.webp?format=1500w" />
     <link rel="image_src" href="https://cdnw808.netlify.work/wd808/wd808-maxwin.webp?format=1500w" />
     <meta itemprop="image" content="https://cdnw808.netlify.work/wd808/wd808-maxwin.webp?format=1500w" />
-=======
-    <meta itemprop="thumbnailUrl" content="wd808-maxwin.webp?format=1500w" />
-    <link rel="image_src" href="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp?format=1500w" />
-    <meta itemprop="image" content="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp?format=1500w" />
->>>>>>> 02269cd31f159ef27b6664958bd6b28c6ee7c03e
     <meta name="twitter:title" content="Official Website WD808 - Tempat bertaruh sering menang!" />
     <meta name="twitter:image" content="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp?format=1500w" />
-    <meta name="twitter:url" content="https://wd808-x8.buzz/" />
+    <meta name="twitter:url" content="https://wd808-new.click/" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
     <meta name="description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
@@ -278,9 +272,9 @@
             "2": true,
             "6": true
           },
-          "authenticUrl": "https://wd808-x8.buzz/",
-          "internalUrl": "https://wd808-x8.buzz/",
-          "baseUrl": "https://wd808-x8.buzz/",
+          "authenticUrl": "https://wd808-new.click/",
+          "internalUrl": "https://wd808-new.click/",
+          "baseUrl": "https://wd808-new.click/",
           "sslSetting": 3,
           "isHstsEnabled": true,
           "typekitId": "",
@@ -404,7 +398,7 @@
         "item": {
           "title": "Official Website WD808 - Tempat bertaruh sering menang!",
           "id": "66a0cc4ca4ab3e747069e333",
-          "fullUrl": "https://wd808-x8.buzz/",
+          "fullUrl": "https://wd808-new.click/",
           "publicCommentCount": 0,
           "commentState": 1,
           "recordType": 11
@@ -604,7 +598,7 @@
     </script>
     <script type="application/ld+json">
       {
-        "url": "https://wd808-x8.buzz/",
+        "url": "https://wd808-new.click/",
         "name": "WD808",
         "description": "",
         "@context": "http://schema.org",
@@ -620,7 +614,7 @@
         "offers": {
           "price": 10000.00,
           "priceCurrency": "IDR",
-          "url": "https://wd808-x8.buzz/",
+          "url": "https://wd808-new.click/",
           "availability": "InStock",
           "sku": "SQ3744849",
           "@context": "http://schema.org",
@@ -1228,13 +1222,13 @@ product-layout-side-by-side
                       <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
                         <a href="/" class="ProductItem-nav-breadcrumb-link">Store</a>
                         <span class="ProductItem-nav-breadcrumb-separator"></span>
-                        <a href="https://wd808-x8.buzz/" class="ProductItem-nav-breadcrumb-link">Official Website WD808 - Tempat bertaruh sering menang!</a>
+                        <a href="https://wd808-new.click/" class="ProductItem-nav-breadcrumb-link">Official Website WD808 - Tempat bertaruh sering menang!</a>
                       </div>
                     </nav>
                     <section class="ProductItem-summary" data-controller="ProductGallery">
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
-                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=66a0cc653f694a3043ed09fd data-controller="ImageZoom" data-slide-url="https://wd808-x8.buzz/" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=66a0cc653f694a3043ed09fd data-controller="ImageZoom" data-slide-url="https://wd808-new.click/" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
                             <img aria-describedby="ProductItem-gallery-slides-item-1-index-66a0cc653f694a3043ed09fd" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp" data-image="https://cdnw808.netlify.work/wd808/img/wd808-maxwin.webp" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" elementtiming="nbf-products-gallery" />
                             <span id="ProductItem-gallery-slides-item-1-index-66a0cc653f694a3043ed09fd" style="display: none;"> Image 1 of </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
@@ -1256,7 +1250,7 @@ product-layout-side-by-side
                               </div>
                               <div class="gallery-lightbox-wrapper">
                                 <div class="gallery-lightbox-list">
-                                  <figure class="gallery-lightbox-item" data-slide-url="https://wd808-x8.buzz/">
+                                  <figure class="gallery-lightbox-item" data-slide-url="https://wd808-new.click/">
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
@@ -1320,7 +1314,7 @@ ProductItem-details
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-x8.buzz/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-new.click/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                           <a href="https://wdlogin.pages.dev/amp/" target="_blank" rel="nofollow noreferrer noopener">
                           <div class="ProductItem-quantity-add-to-cart">
@@ -1331,10 +1325,10 @@ ProductItem-details
                             </div>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-to-cart" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-x8.buzz/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-x8.buzz/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-new.click/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-new.click/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-ons" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-x8.buzz/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-new.click/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                         </div>
                       </section>
